@@ -46,7 +46,7 @@ Built upon [AnyKernel3](https://github.com/osm0sis/AnyKernel3), this repository 
 | ⚡ KPM | Optional KPM feature / build-time patching |
 | 🔔 Re-Kernel | Optional Re-Kernel driver integration |
 | 🩹 CVE-2026-43499 | Optional automatic application of the rtmutex fix |
-| 📱 One‑Plus Snapdragon 8 Elite Support | Optional: Add support for One‑Plus Snapdragon 8 Elite processor |
+| 📱 OnePlus Snapdragon 8 Elite Support | Optional: Add support for OnePlus Snapdragon 8 Elite processor |
 | 🐳 Droidspaces | Optional container support with NTSync kernel compatibility patch |
 
 ## 🔧 Custom Commit Configuration
